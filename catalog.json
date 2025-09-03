@@ -2,11 +2,6 @@
   {
     "title": "OSTIA Reprocessed",
     "description": "GHRSST Level 4 OSTIA Global Historical Reprocessed Foundation Sea Surface Temperature Analysis produced by the UK Meteorological Office.\n",
-    "maintainers": [
-      {
-        "name": "Raphael Hagen"
-      }
-    ],
     "provenance": {
       "providers": [
         {
