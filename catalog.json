@@ -1,11 +1,10 @@
 [
   {
-    "title": "OSTIA Reprocessed",
-    "description": "GHRSST Level 4 OSTIA Global Historical Reprocessed Foundation Sea Surface Temperature Analysis produced by the UK Meteorological Office.\n",
+    "title": "Ericoid mycorrhizal shrubs alter the relationship between tree mycorrhizal dominance and soil carbon and nitrogen",
+    "description": "Ericoid mycorrhizal shrubs alter the relationship between tree mycorrhizal dominance and soil carbon and nitrogen.\n",
     "maintainers": [
       {
-        "name": "Raphael Hagen",
-        "github": "norlandrhagen"
+        "name": "Mark Bradford",
       }
     ],
     "provenance": {
@@ -24,28 +23,16 @@
     "tags": [
       "global",
       "zarr",
-      "GHRSST",
-      "L4",
-      "Level 4",
-      "SST",
-      "REP",
-      "reprocessed",
-      "sea surface temperature",
-      "NASA",
-      "UK Met Office"
     ],
     "links": null,
     "stores": [
       {
-        "id": "OSTIA-REP",
-        "name": "OSTIA-UKMO-L4-GLOB-REP-v2.0",
-        "url": "https://nyu1.osn.mghpcc.org/leap-pangeo-pipeline/OSTIA/OSTIA.zarr",
+        "id": "doi:10.5061",
+        "name": "doi:10.5061",
+        "url": "https://datadryad.org/dataset/doi:10.5061/dryad.4b8gthtcnr",
         "rechunking": null,
         "public": false,
         "geospatial": null,
-        "xarray_open_kwargs": {
-          "engine": "zarr"
-        },
         "last_updated": null
       }
     ],
