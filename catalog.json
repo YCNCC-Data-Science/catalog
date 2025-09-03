@@ -1,0 +1,54 @@
+[
+  {
+    "title": "OSTIA Reprocessed",
+    "description": "GHRSST Level 4 OSTIA Global Historical Reprocessed Foundation Sea Surface Temperature Analysis produced by the UK Meteorological Office.\n",
+    "maintainers": [
+      {
+        "name": "Raphael Hagen",
+        "github": "norlandrhagen"
+      }
+    ],
+    "provenance": {
+      "providers": [
+        {
+          "name": "NASA PODAAC",
+          "description": "NASA Physical Oceanography Distributed Active Archive Center",
+          "roles": ["producer", "distributor"],
+          "url": null
+        }
+      ],
+      "license": "https://doi.org/10.48670/moi-00168",
+      "license_link": null
+    },
+    "thumbnail": null,
+    "tags": [
+      "global",
+      "zarr",
+      "GHRSST",
+      "L4",
+      "Level 4",
+      "SST",
+      "REP",
+      "reprocessed",
+      "sea surface temperature",
+      "NASA",
+      "UK Met Office"
+    ],
+    "links": null,
+    "stores": [
+      {
+        "id": "OSTIA-REP",
+        "name": "OSTIA-UKMO-L4-GLOB-REP-v2.0",
+        "url": "https://nyu1.osn.mghpcc.org/leap-pangeo-pipeline/OSTIA/OSTIA.zarr",
+        "rechunking": null,
+        "public": false,
+        "geospatial": null,
+        "xarray_open_kwargs": {
+          "engine": "zarr"
+        },
+        "last_updated": null
+      }
+    ],
+    "ncviewjs:meta_yaml_url": "https://github.com/leap-stc/OSTIA_REP/blob/main/feedstock/meta.yaml"
+  }
+]
