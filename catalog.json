@@ -8,14 +8,6 @@
       }
     ],
     "provenance": {
-      "providers": [
-        {
-          "name": "NASA PODAAC",
-          "description": "NASA Physical Oceanography Distributed Active Archive Center",
-          "roles": ["producer", "distributor"],
-          "url": null
-        }
-      ],
       "license": "https://doi.org/10.48670/moi-00168",
       "license_link": null
     },
